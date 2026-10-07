@@ -1,0 +1,9 @@
+README
+
+A program that randomly chooses an animal and gives some information using the wikepdia database 
+
+Features 
+ - Uses a local file to store animal list
+ - Using Numpy to shuffle array 
+ - Uses the Wikipedia API to provide an 8 sentence summary of the animal 
+
